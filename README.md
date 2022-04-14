@@ -1,6 +1,6 @@
 #♡❀💋𝒩ͣ𝔶ͥ𝔱ͣ𝔰ᵉ༱ͥ💋❀♡bot
 
-https://images.app.goo.gl/iss9ijRwjNJPotxZ7
+
   
 ## ¡Hola! Bienvenido(a)  a este repositorio ☘ me podrias apoyar con una ⭐️ ¡Gracias! 
 
