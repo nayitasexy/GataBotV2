@@ -1,8 +1,6 @@
 #♡❀💋𝒩ͣ𝔶ͥ𝔱ͣ𝔰ᵉ༱ͥ💋❀♡bot
 
-<p align="center"> 
-<img src="https://i.pinimg.com/originals/67/40/8a/67408ab5444616b71968475001f18e88.gif" alt="gif" width="500" height="279"/> 
-</p> 
+https://images.app.goo.gl/iss9ijRwjNJPotxZ7
   
 ## ¡Hola! Bienvenido(a)  a este repositorio ☘ me podrias apoyar con una ⭐️ ¡Gracias! 
 
