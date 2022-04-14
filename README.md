@@ -1,10 +1,10 @@
-# 𝙂𝙖𝙩𝙖𝘽𝙤𝙩
+#♡❀💋𝒩ͣ𝔶ͥ𝔱ͣ𝔰ᵉ༱ͥ💋❀♡bot
 
 <p align="center"> 
 <img src="https://i.pinimg.com/originals/67/40/8a/67408ab5444616b71968475001f18e88.gif" alt="gif" width="500" height="279"/> 
 </p> 
   
-## ¡Hola! Bienvenido(a) 😸 a este repositorio ☘ me podrias apoyar con una ⭐️ ¡Gracias! 
+## ¡Hola! Bienvenido(a)  a este repositorio ☘ me podrias apoyar con una ⭐️ ¡Gracias! 
 
 <p align="center">   
 <a href="https://github.com/GataNina-Li/GataBotV2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GataNina-Li/GataBotV2?label=Forks&color=blue&style=flat-square"></a>
@@ -14,20 +14,8 @@
 
 ###### 👇 Si tiene dudas 
 #### 💚 *CONTACTO 1* 
-[![blog](https://img.shields.io/badge/Gata_Dios-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://api.whatsapp.com/send?phone=14509544207&text=¡Hola!%20Gata%20Dios%20😸%20vengo%20de%20GitHub) 
+https://chat.whatsapp.com/DLfKhfnihe7HjDiMoBjolk
   
-#### 💚 *CONTACTO 2*  
-[![blog](https://img.shields.io/badge/Gata_Dios-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://api.whatsapp.com/send?phone=593968585383&text=¡Hola!%20Gata%20Dios%20😸%20vengo%20de%20GitHub) 
-
-#### 🌱 *GRUPO OFICIAL*  
-[![blog](https://img.shields.io/badge/GataBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/Eg7m7mmb85IDLnSgFooDg6) 
-
-#### 🎥 *VÍDEO DE INSTALACIÓN*
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/85xI8WFMIUY)
 --------- 
  
 ### ✅ DEBE DE TENER A SU DISPOSICIÓN: 
@@ -50,8 +38,8 @@
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/GataNina-Li/GataBotV2
-> cd GataBotV2
+> git clone https://github.com/nayitasexy/nayitasexy.git
+> cd nayitasexybot
 > ls
 > npm install
 > npm install -g npm@8.6.0
@@ -59,7 +47,7 @@
 > npm start
 ```
 
-### 😸 RECOMENDACIONES:
+###  RECOMENDACIONES:
 > #### *⚠️  De hacer una bifurcación o extracción de este respositorio, es posible que no reciba futuras actualizaciones de GataBot*
 
 ```bash
